@@ -1,10 +1,8 @@
 
-```
 # 🩺 Doctor Appointment Booking System
 
 A modern web application built with the **MERN stack** (MongoDB, Express.js, React.js, Node.js) that allows users to register, log in, book appointments with doctors, and manage their profiles.
 
----
 
 ## 🚀 Features
 
@@ -16,7 +14,6 @@ A modern web application built with the **MERN stack** (MongoDB, Express.js, Rea
 - 📧 Email Confirmation (Optional/Future Scope)
 - 🔧 Admin Panel (Future Scope)
 
----
 
 ## 🛠️ Tech Stack
 
@@ -31,11 +28,9 @@ A modern web application built with the **MERN stack** (MongoDB, Express.js, Rea
 | **React Router** | Client-Side Routing |
 | **Tailwind CSS / CSS** | Styling |
 
----
 
 ## 📁 Folder Structure
 
-```
 Doctor_Appointment/
 ├── client/                  # React Frontend
 │   ├── public/
@@ -53,9 +48,7 @@ Doctor_Appointment/
 ├── .gitignore
 ├── package.json
 └── README.md
-```
 
----
 
 ## 🧑‍💻 Getting Started
 
@@ -88,13 +81,12 @@ npm run dev
 
 ## 🙋‍♀️ Author
 
-**Khushi Kumari**  
-📫 [LinkedIn]((https://www.linkedin.com/in/khushi-kumari-582a02241/)) | ✉️ [GitHub](https://github.com/khushikumari0202)
+Khushi Kumari
+📫 [LinkedIn] [https://www.linkedin.com/in/khushi-kumari-582a02241/] | ✉️ [GitHub](https://github.com/khushikumari0202)
 
----
 
 ## ⭐️ Show your support
 
 If you like this project, give it a ⭐️ and consider contributing or sharing it!
 
----
+
